@@ -19,7 +19,6 @@ export default defineConfig({
 	},
 	integrations: [
 		tailwind(),
-		sveltiaCms(),
 		astroI18next(),
 		alpinejs(),
 		AstroPWA({
